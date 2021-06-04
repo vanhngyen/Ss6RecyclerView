@@ -1,7 +1,7 @@
 package com.example.ss6recyclerview.model;
 
 
-//java:POJO C#:
+//java:POJO C#:POCO
 public class Contact {
     private String name;
     private String phone;
